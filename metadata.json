@@ -1,0 +1,6 @@
+{
+  "name": "Intelligent College Navigation Agent",
+  "description": "AI-powered interactive campus navigator with real-time routing, accessibility paths, indoor floor plans, smart voice guide, and directory assistance.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
